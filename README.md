@@ -8,11 +8,21 @@ Python · Pandas · Google Colab · CSV
 
 🔍 **Analysis**
 
-Data exploration & cleaning
-Employee performance analysis
-Top 5 performers
-Department-wise analysis
-Basic statistical insights
+-->Data exploration & cleaning
+
+
+-->Employee performance analysis
+
+
+-->Top 5 performers
+
+
+-->Department-wise analysis
+
+
+-->Basic statistical insights
+
+
 
 📁 **Files**
 
@@ -25,5 +35,5 @@ employee_management_system.csv — Dataset
 
 Made by 
 
-Mirza Sara Baig✨
+Mirza Sara Baig
 
