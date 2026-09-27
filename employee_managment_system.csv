@@ -1,0 +1,21 @@
+Employee_ID,Name,Age,Gender,Department,City,Experience,Salary,Performance_Score,Attendance,Projects,Status
+1001,Aarav Sharma,25,Male,IT,Indore,2,45000,78,92,3,Active
+1002,Priya Singh,28,Female,HR,Bhopal,5,55000,85,95,4,Active
+1003,Rahul Verma,30,Male,Finance,Indore,7,72000,88,89,5,Active
+1004,Ananya Patel,24,Female,IT,Pune,1,40000,72,90,2,Active
+1005,Vikram Joshi,32,Male,Sales,Mumbai,8,68000,76,84,6,Active
+1006,Neha Gupta,27,Female,IT,Indore,4,62000,91,97,5,Active
+1007,Rohan Mehta,29,Male,HR,Delhi,6,58000,69,78,3,Inactive
+1008,Isha Kapoor,26,Female,Marketing,Pune,3,50000,82,93,4,Active
+1009,Karan Malhotra,35,Male,Finance,Mumbai,10,90000,94,91,7,Active
+1010,Meera Shah,31,Female,IT,Bhopal,7,78000,89,96,6,Active
+1011,Aditya Rao,23,Male,Sales,Indore,1,38000,65,74,2,Inactive
+1012,Sneha Jain,28,Female,Marketing,Delhi,5,61000,87,88,5,Active
+1013,Arjun Nair,33,Male,IT,Pune,9,85000,93,94,7,Active
+1014,Kavya Mishra,26,Female,HR,Bhopal,3,48000,75,86,3,Active
+1015,Manish Yadav,37,Male,Finance,Delhi,12,98000,90,87,8,Active
+1016,Pooja Agarwal,29,Female,Sales,Mumbai,6,64000,81,90,5,Active
+1017,Sahil Khan,24,Male,Marketing,Indore,2,43000,70,82,3,Active
+1018,Riya Das,32,Female,IT,Delhi,8,82000,95,98,7,Active
+1019,Mohit Soni,27,Male,Sales,Pune,4,52000,74,85,4,Active
+1020,Tanya Roy,30,Female,Finance,Bhopal,7,76000,86,93,6,Active
