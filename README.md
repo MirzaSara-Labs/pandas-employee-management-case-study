@@ -4,7 +4,7 @@ A beginner-friendly data analysis project using Python & Pandas to explore an em
 
 🛠️ **Tools**
 
-Python · Pandas · Jupyter Notebook · CSV
+Python · Pandas · Google Colab · CSV
 
 🔍 **Analysis**
 
