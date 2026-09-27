@@ -16,8 +16,12 @@ Basic statistical insights
 
 📁 **Files**
 
+
 case_study_pandas.ipynb — Analysis notebook
+
+
 employee_management_system.csv — Dataset
+
 
 Made by Mirza Sara Baig✨
 
