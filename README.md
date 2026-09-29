@@ -1,39 +1,91 @@
-# 📊 **Pandas Employee Management Case Study**
+📊 Employee Management — Pandas Case Study
 
-A beginner-friendly data analysis project using Python & Pandas to explore an employee dataset and uncover useful insights.
+A beginner-friendly Pandas case study using employee data to practice data cleaning, selection, filtering, sorting, feature creation, grouping, and HR analysis.
 
-🛠️ **Tools**
+🔍 What This Project Covers
 
-Python · Pandas · Google Colab · CSV
 
-🔍 **Analysis**
+-->Pandas DataFrame basics
 
--->Data exploration & cleaning
+
+-->Selecting and filtering data
+
+
+-->Multiple conditions
+
+
+-->Sorting and ranking
+
+
+-->Creating new columns
+
+
+-->value_counts() and unique values
+
+
+-->groupby() analysis
 
 
 -->Employee performance analysis
 
 
--->Top 5 performers
+-->HR-focused insights
 
 
--->Department-wise analysis
+📌 Key Insights
 
 
--->Basic statistical insights
+-->20 employees are analyzed across 5 departments.
 
 
-
-📁 **Files**
-
-
-case_study_pandas.ipynb — Analysis notebook
+-->Average salary: ₹63,250/month
 
 
-employee_management_system.csv — Dataset
+-->Average performance score: 82/100
 
 
-Made by 
+-->Average experience: 5.5 years
 
-Mirza Sara Baig
 
+-->18 active and 2 inactive employees
+
+
+-->Finance has the highest average salary (₹84,000) and average performance (89.5).
+
+
+-->IT has the largest workforce (6 employees) and highest average attendance (94.5%).
+
+
+-->Highest individual salary: ₹98,000
+
+
+-->Highest performance score: 95
+
+
+-->Highest experience: 12 years
+
+
+🛠️ Tools Used
+
+
+-->Python
+
+
+-->Pandas
+
+
+-->Jupyter Notebook
+
+
+📁 Files
+
+
+CASE_STUDY_PANDAS_REVISED.ipynb —   Complete analysis notebook
+
+employee_managment_system.csv —   Dataset
+
+
+🎯 Purpose
+
+
+This project was created to practice Pandas and demonstrate how basic data analysis can be used to generate practical HR insights from employee data.
