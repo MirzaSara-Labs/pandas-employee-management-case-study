@@ -1,8 +1,8 @@
-📊 Employee Management — Pandas Case Study
+# 📊 **Employee Management — Pandas Case Study**
 
 A beginner-friendly Pandas case study using employee data to practice data cleaning, selection, filtering, sorting, feature creation, grouping, and HR analysis.
 
-🔍 What This Project Covers
+🔍 **What This Project Covers**
 
 
 -->Pandas DataFrame basics
@@ -32,7 +32,7 @@ A beginner-friendly Pandas case study using employee data to practice data clean
 -->HR-focused insights
 
 
-📌 Key Insights
+📌 **Key Insights**
 
 
 -->20 employees are analyzed across 5 departments.
@@ -65,7 +65,7 @@ A beginner-friendly Pandas case study using employee data to practice data clean
 -->Highest experience: 12 years
 
 
-🛠️ Tools Used
+🛠️ **Tools Used**
 
 
 -->Python
@@ -77,7 +77,7 @@ A beginner-friendly Pandas case study using employee data to practice data clean
 -->Jupyter Notebook
 
 
-📁 Files
+📁 **Files**
 
 
 CASE_STUDY_PANDAS_REVISED.ipynb —   Complete analysis notebook
@@ -85,7 +85,7 @@ CASE_STUDY_PANDAS_REVISED.ipynb —   Complete analysis notebook
 employee_managment_system.csv —   Dataset
 
 
-🎯 Purpose
+🎯 **Purpose**
 
 
 This project was created to practice Pandas and demonstrate how basic data analysis can be used to generate practical HR insights from employee data.
